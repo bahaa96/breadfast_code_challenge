@@ -29,7 +29,7 @@ This was the [UI Design](https://www.figma.com/community/file/102365094672765384
 this a walkthrough video of the app
 </br>
 
-<iframe src="https://drive.google.com/file/d/1bZjSrkSi2B6NfXnu8eGJxMxil4FKm4p5/preview" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video src="blob:https://youfiles.herokuapp.com/b16b74bd-67ab-4011-b39d-919dbf3ffc9d" width="320" height="240" controls></video>
 
 </br>
 </br>
