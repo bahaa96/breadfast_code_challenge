@@ -27,6 +27,12 @@ This Project took me 6 hours of work + extra 30 minutes of research.
 This was the [UI Design](https://www.figma.com/community/file/1023650946727653842) that I used as an inspiration to produce the UI Code.
 
 this a walkthrough video of the app
+</br>
+
+<iframe src="https://drive.google.com/file/d/1bZjSrkSi2B6NfXnu8eGJxMxil4FKm4p5/preview" width="480" height="320" allow="autoplay"></iframe>
+
+</br>
+</br>
 
 and here are some screenshots:
 
