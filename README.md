@@ -29,7 +29,7 @@ This was the [UI Design](https://www.figma.com/community/file/102365094672765384
 this a walkthrough video of the app
 </br>
 
-<iframe src="https://drive.google.com/file/d/1bZjSrkSi2B6NfXnu8eGJxMxil4FKm4p5/preview" width="480" height="320" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1bZjSrkSi2B6NfXnu8eGJxMxil4FKm4p5/preview" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 </br>
 </br>
